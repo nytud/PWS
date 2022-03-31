@@ -3,6 +3,8 @@
 PWS is a parallel corpus of the Winograd schemas for seven languages including Hungarian. Find additional information about the original dataset and the translations [here](https://cs.nyu.edu/~davise/papers/WinogradSchemas/WS.html).
 The Hungarian translation is also available [here](https://github.com/nytud/HuWS).
 
+The repository presently contains only a sample of the full dataset, the dataset is under upload.
+
 ## Sources
 
 PWS contains translations of the Winograd schemas for the following languages:
