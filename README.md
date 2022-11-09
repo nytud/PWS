@@ -40,16 +40,18 @@ If you use the original Winograd schemata or any of the translations, please cit
 
 If you use the Hungarian translation, please cite additionally:
 
-```bibtex
-@inproceedings{ligetinagy2022hulu,
-  title={HuLU: magyar nyelvű benchmark adatbázis kiépítése a neurális nyelvmodellek kiértékelése céljából},
-  author={Ligeti-Nagy, N. and Ferenczi, G. and Héja, E. and Jelencsik-Mátyus, K. and Laki, L. J. and Vadász, N. and Yang, Z. Gy. and Váradi, T.},
-  booktitle={XVIII. Magyar Számítógépes Nyelvészeti Konferencia},
-  year={2022},
-  pages = {431--446},
-  editors = {Berend, G. and Gosztolya, G. and Vincze, V.},
-  address = {Szeged},
-  publisher = {JATEPress}
+Vadász, N., & Ligeti-Nagy, N. (2022). Winograd schemata and other datasets for anaphora resolution in Hungarian, Acta Linguistica Academica, 69(4), in press.
+```
+@article {HuWNLI,
+      author = "Noémi Vadász and Noémi Ligeti-Nagy",
+      title = "Winograd schemata and other datasets for anaphora resolution in Hungarian",
+      journal = "Acta Linguistica Academica",
+      year = "2022",
+      publisher = "Akadémiai Kiadó",
+      address = "Budapest, Hungary",
+      volume = "69",
+      number = "4",
+      note = "In press."
 }
 ```
 
