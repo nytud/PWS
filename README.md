@@ -3,7 +3,6 @@
 PWS is a parallel corpus of the Winograd schemata for seven languages including Hungarian. Find additional information about the original dataset and the translations [here](https://cs.nyu.edu/~davise/papers/WinogradSchemas/WS.html).
 The Hungarian translation is also available [here](https://github.com/nytud/HuWS).
 
-:construction: The repository presently contains only a sample of the full dataset, the dataset is under upload. :construction:
 
 ## Sources
 
@@ -25,6 +24,10 @@ In the case of the English schemata the source is indicated. In the case of tran
 Japanese and Portuguese translations are provided in two versions: one preserves the English proper names, while the other contains proper names of the target language. Schemata containing proper names are stored in both versions in the parallel corpus as well. In these cases the first column of the laguage (`sentence_jap`, `snippet_jap`, `answer1_jap`, `answer2_jap`, `correct_answer_jap` and `sentence_por`, `snippet_jap`, `answer1_jap`, `answer2_jap`, `correct_answer_jap`) contains the version with English names, the second column (`sentence_jap2`, `snippet_jap2`, `answer1_jap2`, `answer2_jap2`, `correct_answer_jap2` and `sentence_por2`, `snippet_jap2`, `answer1_jap2`, `answer2_jap2`, `correct_answer_jap2`) contains the schemata with Portuguese or Japanese names. Sentences that does not contain any proper names are stored only in the first column of the language.
 
 ## Citations
+
+If you use PWS, please cite:
+
+
 
 If you use the original Winograd schemata or any of the translations, please cite:
 
