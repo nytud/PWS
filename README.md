@@ -4,6 +4,7 @@ PWS is a parallel corpus of the Winograd schemata for seven languages including 
 The Hungarian translation is also available [here](https://github.com/nytud/HuWS).
 
 
+
 ## Sources
 
 PWS contains translations of the Winograd schemata for the following languages:
